@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ```bash
 . ./venv.sh
-python src/selfdev_client.py
+python selfdev_client.py
 ```
 
 See more details in the Jupyter Notebook: [selfdev-client.ipynb](./selfdev-client.ipynb).
